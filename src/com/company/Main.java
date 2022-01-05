@@ -4,6 +4,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Main {
+    Scanner scanner=new Scanner(System.in);
+    Random random=new Random();
 
     public static void main(String[] args) {
 //        Integer массивден жуп сандарды терип алынызда
@@ -24,6 +26,7 @@ public class Main {
         System.out.println(" Эн чону "+max);
 
 
+        
     }
 
 
